@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+Team MANISHA.S,MANISHA.S,MARIA ROSELINE,MEENAKSHI.M,MOHANA N
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
